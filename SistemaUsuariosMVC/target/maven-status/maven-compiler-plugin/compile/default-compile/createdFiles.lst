@@ -1,0 +1,5 @@
+Vista\UsuarioView.class
+com\mycompany\gestionusuariosmvc\Main.class
+Controlador\UsuarioController.class
+com\mycompany\sistemausuariosmvc\SistemaUsuariosMVC.class
+Modelo\Usuario.class
